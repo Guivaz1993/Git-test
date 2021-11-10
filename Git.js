@@ -1,1 +1,1 @@
-console.log("Teste de clone")
+console.log("Teste de clone!")
